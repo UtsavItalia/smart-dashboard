@@ -1,0 +1,8 @@
+fastapi          # Handles HTTP routes
+uvicorn          # The server that runs FastAPI
+pandas           # Reading CSV, stats, correlation
+numpy            # Math operations Pandas relies on
+python-multipart # Allows FastAPI to accept file uploads
+openai           # OpenAI Python SDK
+python-dotenv    # Loads your API key from a .env
+pydantic         # Data validation with FastAPI
